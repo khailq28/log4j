@@ -1,0 +1,5 @@
+[main] DEBUG com.company.Main  - Hello this is a debug message
+  [main] INFO  com.company.Main  - Hello this is an info message
+  [main] DEBUG com.company.Main  - Hello this is a debug message
+  [main] INFO  com.company.Main  - Hello this is an info message
+  
