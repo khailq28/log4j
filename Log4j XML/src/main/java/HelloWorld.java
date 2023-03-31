@@ -6,7 +6,7 @@ public class HelloWorld {
 
     private static final Logger logger = LogManager.getLogger(HelloWorld.class);
     public static void main(String[] args) {
-        DOMConfigurator.configure("src/main/resources/log4jConsoleAndFile.xml");
+        DOMConfigurator.configure("src/main/resources/log4j.xml");
         logger.debug("Sample debug message");
         logger.info("Sample info message");
         logger.warn("Sample warn message");
